@@ -1,1 +1,1 @@
-Release Notes for v0.0.5
+Release Notes for v0.0.6
